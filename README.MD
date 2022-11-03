@@ -1,4 +1,5 @@
-![](HULK.png)
+<img src ="https://github.com/R3DHULK/R3DHULK/blob/main/hulk.png?raw=true">
+
 ##
 <h1 align="center">Hi 👋, I'm Sumalya Chatterjee</h1>
 
