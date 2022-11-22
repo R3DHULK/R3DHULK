@@ -1,8 +1,11 @@
 ![Alt text](hulk.png)
 ##
-<h1 align="center">Hi 👋, I'm Sumalya Chatterjee</h1>
+<p align="center">
+<a href="https://github.com/R3DHULK">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Sumalya+Chatterjee" alt="Typing SVG" /></a>
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cyber+Security+Engineer;Ethical+Hacking+Practitioner;Software+Engineer;Writter" alt="Typing SVG" /></a></a>
+</p>
 
-<h3 align="center">A passionate software developer and rising ethical hacker from India</h3>
 <br>
 <details align="center"><summary>Visitors Count : </summary>
     <img src="https://camo.githubusercontent.com/142f24b8d55478cbb4edd4bd3b14f7097853932ab2a2364bac5cd822e3aaa4a2/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6461776565646b6f622f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/daweedkob/count.svg" style="max-width: 100%;">
