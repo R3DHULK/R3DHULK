@@ -1,4 +1,4 @@
-![Alt text](hulk.png)
+![Alt text](banner.png)
 ##
 <p align="center">
 <a href="https://github.com/R3DHULK">
