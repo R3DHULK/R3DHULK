@@ -12,7 +12,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=r3dhulk">
 </a>
-<img src="https://camo.githubusercontent.com/ebb72777ae5276b4e841371e0819913f9d0b6dc194f0c1cf7f852c19f3cbc254/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e7376673f763d313032" alt="Open Source Love" data-canonical-src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/ebb72777ae5276b4e841371e0819913f9d0b6dc194f0c1cf7f852c19f3cbc254/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e7376673f763d313032" alt="Open Source Love" data-canonical-src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" style="max-width: 100%;"><i>
 
 #
 
@@ -55,7 +55,7 @@ const sumalya = {
 };
 ```
 
-<h2><b> ✨ What Do I Offer?</h1></b>
+</i><h2><b> ✨ What Do I Offer?</h1></b>
 
 <h2><b><a href="https://r3dhulk.github.io/Courses/"> 📺 Courses </a></b></h2>
 <h2><b><a href="https://r3dhulk.github.io/Books/"> 📖 Books </a></b></h2>
@@ -64,7 +64,21 @@ const sumalya = {
 
 #
 
-<h2><b> 📊 Github Stats </b></h2>
+```
+┌──(kali@kali)-[~/]
+└─$ python3 r3dhulk.py
+
+Hello stranger! R3DHULK is serving here...
+
+┌──(kali@kali)-[~/]
+└─$ 
+```
+
+<h2><b> 👽 Access My <a href="https://r3dhulk.github.io/Terminal/"> Terminal </a></b><h2>
+
+#
+
+<h2><b> 📊 Github Stats ✨ </b></h2>
 
  ![r3dhulk's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3dhulk&show_icons=true&theme=ocean_dark)
 
