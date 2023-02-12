@@ -1,38 +1,95 @@
-![Alt text](banner.png)
-##
-<p align="center">
-<a href="https://github.com/R3DHULK">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Sumalya+Chatterjee" alt="Typing SVG" /></a>
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cyber+Security+Engineer;Ethical+Hacking+Practitioner;Software+Engineer;Writter" alt="Typing SVG" /></a></a>
-</p>
+<img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="hello there"><br>
 
-<br>
-<details align="center"><summary>Visitors Count : </summary>
-    <img src="https://camo.githubusercontent.com/142f24b8d55478cbb4edd4bd3b14f7097853932ab2a2364bac5cd822e3aaa4a2/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6461776565646b6f622f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/daweedkob/count.svg" style="max-width: 100%;">
-    </details>
-<br>
+#
 
-- 🔭 I’m currently working on [Hulk Office](https://github.com/R3DHULK/hulk-office) and [Python For Ethical Hacking](https://github.com/R3DHULK/python-for-ethical-hacking/)
+<h1>Hi I'm <i><a href="https://github.com/R3DHULK" rel="nofollow"><b>R3DHULK</b></i></a>, And I'm</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3FF72C&background=000000&width=435&lines=A+Cyber+Security+Enginner;A+Website+Developer;A+Software+Developer;A+Writer" alt="Typing SVG" /></a>
 
-- 🌱 I’m currently learning **hacking, programming, software developing.**
+- [Hire Me](https://www.fiverr.com/r3dh_ulk?up_rollout=true)
 
-- 👨‍💻 All of my projects are available at [R3DHULK](https://github.com/R3DHULK/)
+#
 
-- 💬 Ask me about **python, javascript, c, c++, c#, go, perl, ruby, bash, php, sql, batch.**
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=r3dhulk">
+</a>
+<img src="https://camo.githubusercontent.com/ebb72777ae5276b4e841371e0819913f9d0b6dc194f0c1cf7f852c19f3cbc254/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e7376673f763d313032" alt="Open Source Love" data-canonical-src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" style="max-width: 100%;">
 
-- ⚡ Fun fact **I can suggest you new ideas.**
+#
 
-<h3 align="left">Reach me: sumalyachatterjee75@gmail.com</h3>
-<p align="left">
-</p>
+```javascript
+const sumalya = {
+    pronouns: "He" | "Him",
+    codename: "r3dhulk",
+    status: "alive",
+    doing: "Coding...",
+    code: ["{Python}", "{Go}", "{C}", "{C++}", "{Perl}", "{Ruby}", "{Java}"],
+    askMeAbout: ["soft dev", "web dev", "tech"],
+    webdev: {
+        frontEnd: {
+            code: ["JavaScript, HTML, CSS, ReactJS"],
+        },
+        backEnd: {
+            databases: ["MongoDB, NodeJS"],
+        }
+        speciality:{
+            ux_design: ["glassmorphism, neomorphism"],
+        }
+    },
+    contact: {
+        website: r3dhulk.github.io
+        email: `sumalyachatterjee75@gmail.com`,
+        instagram: @r3dh_ulk
+        youtube: @sumalya
+    },
+    best_projects: {
+        exeprojects: hulk-office,
+        bestofcli: `fsociety`,
+        ethicalhacking:
+            `1. Python-For-Ethical-Hacking`;
+            `2. Go-For-Ethical-Hackers`;
+            `3. Perl-For-Ethical-Hackers`;
+            `4. Ruby-For-Ethical-Hackers`;
+            `5. Clang-For-Ethical-Hackers`;
+    },
+    return 0;
+};
+```
 
-<details align="center"><summary>Languages and Tools I know :<h3 align="left"></h3></summary>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p></details>
+<h2><b> ✨ What Do I Offer?</h1></b>
+
+<h2><b><a href="https://r3dhulk.github.io/Courses/"> 📺 Courses </a></b></h2>
+<h2><b><a href="https://r3dhulk.github.io/Books/"> 📖 Books </a></b></h2>
+<h2><b><a href="https://r3dhulk.github.io/Merchandise/"> 👔 Merchandise </a></b></h2>
+<h2><b><a href="https://r3dhulk.github.io/GameZone/"> 🎳 Games </a></b></h2>
+
+#
+
+<h2><b> 📊 Github Stats </b></h2>
+
+ ![r3dhulk's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3dhulk&show_icons=true&theme=ocean_dark)
+
+
+ #
+
+<h2><b>🏆 Trophies</b></h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=r3dhulk&theme=onedark)](https://github.com/r3dhulk/github-profile-trophy)
+
+#
+
+<h3><b><i> 🔗 Know more about me </h3></b></i>
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://r3dhulk.github.io/)
+[![Facebook](https://img.shields.io/badge/-facebook-black?style=for-the-badge&logo=Facebook)](https://www.facebook.com//)
+[![Youtube](https://img.shields.io/badge/-youtube-black?style=for-the-badge&logo=youtube)](https://youtube.com/@sumalya)
+[![Linkedin](https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sumalya-chatterjee-676b31262/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/r3dh_ulk/)
+[![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram)](https://telegram.me/r3dhulk)
+[![Codepen](https://img.shields.io/badge/-codepen-black?style=for-the-badge&logo=Codepen)](https://codepen.io/R3DHULK)
+[![Hackerrank](https://img.shields.io/badge/-hackerrank-black?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/sumalyachatterj1?hr_r=1)
+[![Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=Medium)](https://r3dhulk.medium.com/)
+
+#
 
 <h3 align="left"><b><i> Show Support 👇👇👇 </b></i></h3>
 <p><a href="https://www.buymeacoffee.com/r3dhulk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/r3dhulk" /></a></p><br></br><br></br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3dhulk&show_icons=true&locale=en&layout=compact" alt="r3dhulk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3dhulk&show_icons=true&locale=en" alt="r3dhulk" /></p>
-<img align="center" alt = "meowmeow" src="https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif">
