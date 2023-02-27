@@ -22,7 +22,7 @@ const sumalya = {
     codename: "r3dhulk",
     status: "alive",
     doing: "Coding...",
-    code: ["{Python}", "{Go}", "{C}", "{C++}", "{Perl}", "{Ruby}", "{Java}"],
+    code: ["{Python}", "{Go}", "{C}", "{C++}", "{Perl}", "{Ruby}", "{Java}", "{R}"],
     askMeAbout: ["soft dev", "web dev", "tech"],
     webdev: {
         frontEnd: {
@@ -30,13 +30,13 @@ const sumalya = {
         },
         backEnd: {
             databases: ["MongoDB, NodeJS"],
-        }
-        speciality:{
+        },
+        speciality: {
             ux_design: ["glassmorphism, neomorphism"],
         }
     },
     contact: {
-        website: r3dhulk.github.io
+        website: r3dhulk.github.io 
         email: `sumalyachatterjee75@gmail.com`,
         instagram: @r3dh_ulk
         youtube: @sumalya
