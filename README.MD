@@ -77,9 +77,69 @@ Hello stranger! R3DHULK is serving here...
 
 #
 
-<h2><b> 📊 Github Stats ✨ </b></h2>
+<!-- Languages and Tools -->
 
- ![r3dhulk's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3dhulk&show_icons=true&theme=ocean_dark)
+<h2><b>⚙️ Languages and Tools 💕</b></h2>
+<div align="center" style="display:block;">
+    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
+</div>
+<br>   
+<!-- Icons Resources -->
+<div align="center"> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img  alt="C" height="50px" style="padding-right:10px;" src="https://media4.giphy.com/media/26gsvly3OshqbUcog/giphy.gif"/>
+  </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+      <img  alt="C" height="50px" style="padding-right:10px;" src="https://media.tenor.com/DRvsTqR42fcAAAAC/together-cpp.gif"/>
+  </a>
+  <a href="https://www.perl.org/" target="_blank" rel="noreferrer">
+      <img  alt="C" height="50px" style="padding-right:10px;" src="https://www.edn.com/wp-content/uploads/media-1202445-perl.jpg"/>
+  </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+      <img  alt="C" height="50px" style="padding-right:10px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--mqzd6H57--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i.imgur.com/6ipUqve.gif"/>
+  </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+      <img  alt="C" height="50px" style="padding-right:10px;" src="https://storage.googleapis.com/deleplace-sandbox/2019/go-gcf/gopher-dance-long-3x-sign.gif"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+      <img  alt="C" height="50px" style="padding-right:10px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/13b69865103673.604e4c08a9314.gif"/>
+  </a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+      <img  alt="Java" height="50px" style="padding-right:10px;" src="https://i.stack.imgur.com/8NkOQ.gif"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://res.cloudinary.com/practicaldev/image/fetch/s--eDUx93PJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.sanity.io/images/82qqyrei/production/d0eab98cd583f0b0db13afd90288b53ad5e14e59-828x815.gif"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif"/>
+  </a>
+</div>
+<br>
+<br>
+
+#
+
+<h2><b> 📊 Github Stats ✨ </b></h2>
+<div class="stats" align="center">
+
+<img  alt="stats_banner" height="150px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif"/>
+
+![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=r3dhulk&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=r3dhulk&count_private=true&theme=algolia&border_radius=20)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r3dhulk&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
+<!--  End Stats Cards -->
 
 
  #
