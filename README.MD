@@ -59,7 +59,6 @@ const sumalya = {
 
 <h2><b><a href="https://r3dhulk.github.io/Courses/"> 📺 Courses </a></b></h2>
 <h2><b><a href="https://r3dhulk.github.io/Books/"> 📖 Books </a></b></h2>
-<h2><b><a href="https://r3dhulk.github.io/Merchandise/"> 👔 Merchandise </a></b></h2>
 <h2><b><a href="https://r3dhulk.github.io/GameZone/"> 🎳 Games </a></b></h2>
 
 #
