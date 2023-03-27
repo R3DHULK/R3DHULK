@@ -96,16 +96,16 @@ Hello stranger! R3DHULK is serving here...
       <img  alt="C" height="50px" style="padding-right:10px;" src="https://media.tenor.com/DRvsTqR42fcAAAAC/together-cpp.gif"/>
   </a>
   <a href="https://www.perl.org/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://www.edn.com/wp-content/uploads/media-1202445-perl.jpg"/>
+      <img  alt="C" height="50px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/237/582/png-clipart-perl-6-programming-language-programmer-ruby-mammal-fauna.png"/>
   </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--mqzd6H57--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i.imgur.com/6ipUqve.gif"/>
+      <img  alt="ruby" height="50px" style="padding-right:10px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--mqzd6H57--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i.imgur.com/6ipUqve.gif"/>
   </a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://storage.googleapis.com/deleplace-sandbox/2019/go-gcf/gopher-dance-long-3x-sign.gif"/>
+      <img  alt="go" height="50px" style="padding-right:10px;" src="https://storage.googleapis.com/deleplace-sandbox/2019/go-gcf/gopher-dance-long-3x-sign.gif"/>
   </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/13b69865103673.604e4c08a9314.gif"/>
+      <img  alt="r" height="50px" style="padding-right:10px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/13b69865103673.604e4c08a9314.gif"/>
   </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
       <img  alt="Java" height="50px" style="padding-right:10px;" src="https://i.stack.imgur.com/8NkOQ.gif"/>
