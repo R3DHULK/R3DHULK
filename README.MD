@@ -29,27 +29,17 @@ const sumalya = {
             code: ["JavaScript, HTML, CSS, ReactJS"],
         },
         backEnd: {
-            databases: ["MongoDB, NodeJS"],
+            databases: ["SQL, PHP, NodeJS"],
         },
         speciality: {
             ux_design: ["glassmorphism, neomorphism"],
         }
     },
     contact: {
-        website: r3dhulk.github.io 
+        website: redhulk.in,
         email: `sumalyachatterjee75@gmail.com`,
         instagram: @r3dh_ulk
         youtube: @sumalya
-    },
-    best_projects: {
-        exeprojects: hulk-office,
-        bestofcli: `fsociety`,
-        ethicalhacking:
-            `1. Python-For-Ethical-Hacking`;
-            `2. Go-For-Ethical-Hackers`;
-            `3. Perl-For-Ethical-Hackers`;
-            `4. Ruby-For-Ethical-Hackers`;
-            `5. Clang-For-Ethical-Hackers`;
     },
     return 0;
 };
@@ -73,7 +63,7 @@ Hello stranger! R3DHULK is serving here...
 └─$ 
 ```
 
-<h2><b> 👽 Access My <a href="https://r3dhulk.github.io/Terminal/"> Terminal </a></b><h2>
+<h2><b> 👽 Access Me <a href="https://r3dhulk.github.io/Terminal/"> In Terminal </a></b><h2>
 
 #
 
@@ -112,6 +102,9 @@ Hello stranger! R3DHULK is serving here...
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://res.cloudinary.com/practicaldev/image/fetch/s--eDUx93PJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.sanity.io/images/82qqyrei/production/d0eab98cd583f0b0db13afd90288b53ad5e14e59-828x815.gif"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+      <img  alt="idea" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -153,7 +146,6 @@ Hello stranger! R3DHULK is serving here...
 <h3><b><i> 🔗 Know more about me </h3></b></i>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://r3dhulk.github.io/)
-[![Facebook](https://img.shields.io/badge/-facebook-black?style=for-the-badge&logo=Facebook)](https://www.facebook.com//)
 [![Youtube](https://img.shields.io/badge/-youtube-black?style=for-the-badge&logo=youtube)](https://youtube.com/@sumalya)
 [![Linkedin](https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sumalya-chatterjee-676b31262/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/r3dh_ulk/)
