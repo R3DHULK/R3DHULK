@@ -21,7 +21,7 @@ const sumalya = {
     pronouns: "He" | "Him",
     codename: "r3dhulk",
     status: "alive",
-    doing: "Coding...",
+    doing: "Content Creation And Coding...",
     code: ["{Python}", "{Go}", "{C}", "{C++}", "{Perl}", "{Ruby}", "{Java}", "{R}"],
     askMeAbout: ["soft dev", "web dev", "tech"],
     webdev: {
@@ -38,8 +38,8 @@ const sumalya = {
     contact: {
         website: redhulk.in,
         email: `sumalyachatterjee75@gmail.com`,
-        instagram: @r3dh_ulk
-        youtube: @sumalya
+        instagram: @r3dh_ulk,
+        youtube: @sumalya,
     },
     return 0;
 };
