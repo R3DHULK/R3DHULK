@@ -115,6 +115,12 @@ Hello stranger! R3DHULK is serving here...
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif"/>
   </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952b1292416a51013fed8b5530f91b0eaa64eec7027&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s"/>
+  </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=6c09b95293218d8e0479d624173c3d31a99dbef5898a0701&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s"/>
+  </a>
 </div>
 <br>
 <br>
