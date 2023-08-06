@@ -37,8 +37,8 @@ const sumalya = {
     },
     contact: {
         website: redhulk.in,
-        email: `sumalyachatterjee75@gmail.com`,
-        instagram: @r3dh_ulk,
+        email: `officialredhulk@gmail.com`,
+        instagram: @redhulk.in,
         youtube: @sumalya,
     },
     return 0;
@@ -47,9 +47,9 @@ const sumalya = {
 
 </i><h2><b> ✨ What Do I Offer?</h1></b>
 
-<h2><b><a href="https://r3dhulk.github.io/Courses/"> 📺 Courses </a></b></h2>
-<h2><b><a href="https://r3dhulk.github.io/Books/"> 📖 Books </a></b></h2>
-<h2><b><a href="https://r3dhulk.github.io/GameZone/"> 🎳 Games </a></b></h2>
+<h2><b><a href="https://redhulk.in/Courses/"> 📺 Courses </a></b></h2>
+<h2><b><a href="https://redhulk.in/Books/"> 📖 Books </a></b></h2>
+<h2><b><a href="https://redhulk.in/GameZone/"> 🎳 Games </a></b></h2>
 
 #
 
@@ -63,7 +63,8 @@ Hello stranger! R3DHULK is serving here...
 └─$ 
 ```
 
-<h2><b> 👽 Access Me <a href="https://r3dhulk.github.io/Terminal/"> In Terminal </a></b><h2>
+<h2><b> 👽 Access Us <a href="https://redhulk.in/Terminal/"> In Terminal </a></b><h2>
+<h2><b> 😊 About <a href="https://redhulk.in/Terminal/">  Us More </a></b><h2>
 
 #
 
