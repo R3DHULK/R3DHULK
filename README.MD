@@ -64,7 +64,7 @@ Hello stranger! R3DHULK is serving here...
 ```
 
 <h2><b> 👽 Access Us <a href="https://redhulk.in/Terminal/"> In Terminal </a></b><h2>
-<h2><b> 😊 About <a href="https://redhulk.in/Terminal/">  Us More </a></b><h2>
+<h2><b> 😊 About Us <a href="https://redhulk.in/about/"> More </a></b><h2>
 
 #
 
@@ -152,10 +152,10 @@ Hello stranger! R3DHULK is serving here...
 
 <h3><b><i> 🔗 Know more about me </h3></b></i>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://r3dhulk.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://redhulk.in/)
 [![Youtube](https://img.shields.io/badge/-youtube-black?style=for-the-badge&logo=youtube)](https://youtube.com/@sumalya)
 [![Linkedin](https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sumalya-chatterjee-676b31262/)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/r3dh_ulk/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/redhulk/)
 [![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram)](https://telegram.me/r3dhulk)
 [![Codepen](https://img.shields.io/badge/-codepen-black?style=for-the-badge&logo=Codepen)](https://codepen.io/R3DHULK)
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-black?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/sumalyachatterj1?hr_r=1)
