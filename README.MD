@@ -63,7 +63,7 @@ Hello stranger! R3DHULK is serving here...
 └─$ 
 ```
 
-<h2><b> 👽 Access Us <a href="https://redhulk.in/Terminal/"> In Terminal </a></b><h2>
+<h2><b> 👽 Access Us <a href="https://redhulk.in/terminal/"> In Terminal </a></b><h2>
 <h2><b> 😊 About Us <a href="https://redhulk.in/about/"> More </a></b><h2>
 
 #
