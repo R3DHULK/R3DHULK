@@ -5,14 +5,11 @@
 <h1>Hi I'm <i><a href="https://github.com/R3DHULK" rel="nofollow"><b>R3DHULK</b></i></a>, And I'm</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3FF72C&background=000000&width=435&lines=A+Cyber+Security+Enginner;A+Website+Developer;A+Software+Developer;A+Writer" alt="Typing SVG" /></a>
 
-- [Hire Me](https://www.fiverr.com/r3dh_ulk?up_rollout=true)
-
 #
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=r3dhulk">
 </a>
-<img src="https://camo.githubusercontent.com/ebb72777ae5276b4e841371e0819913f9d0b6dc194f0c1cf7f852c19f3cbc254/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e7376673f763d313032" alt="Open Source Love" data-canonical-src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" style="max-width: 100%;"><i>
 
 #
 
@@ -37,7 +34,7 @@ const sumalya = {
     },
     contact: {
         website: redhulk.in,
-        email: `officialredhulk@gmail.com`,
+        email: `namastesumalya@gmail.com`,
         instagram: @redhulk.in,
         youtube: @sumalya,
     },
@@ -45,11 +42,9 @@ const sumalya = {
 };
 ```
 
-</i><h2><b> ✨ What Do I Offer?</h1></b>
+</i><h2><b> ✨ Visit my web</h1></b>
 
-<h2><b><a href="https://redhulk.in/Courses/"> 📺 Courses </a></b></h2>
-<h2><b><a href="https://redhulk.in/Books/"> 📖 Books </a></b></h2>
-<h2><b><a href="https://redhulk.in/GameZone/"> 🎳 Games </a></b></h2>
+<h2><b><a href="https://www.sumalya.com/"> Sumalya.com </a></b></h2>
 
 #
 
@@ -62,9 +57,6 @@ Hello stranger! R3DHULK is serving here...
 ┌──(kali@kali)-[~/]
 └─$ 
 ```
-
-<h2><b> 👽 Access Us <a href="https://redhulk.in/terminal/"> In Terminal </a></b><h2>
-<h2><b> 😊 About Us <a href="https://redhulk.in/about/"> More </a></b><h2>
 
 #
 
@@ -152,16 +144,13 @@ Hello stranger! R3DHULK is serving here...
 
 <h3><b><i> 🔗 Know more about me </h3></b></i>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://redhulk.in/)
-[![Youtube](https://img.shields.io/badge/-youtube-black?style=for-the-badge&logo=youtube)](https://youtube.com/@sumalya)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sumalya.com/)
+[![Youtube](https://img.shields.io/badge/-youtube-black?style=for-the-badge&logo=youtube)](https://youtube.com/@sumalyacom)
 [![Linkedin](https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sumalya-chatterjee-676b31262/)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/redhulk/)
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/redhulk/) -->
 [![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram)](https://telegram.me/r3dhulk)
 [![Codepen](https://img.shields.io/badge/-codepen-black?style=for-the-badge&logo=Codepen)](https://codepen.io/R3DHULK)
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-black?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/sumalyachatterj1?hr_r=1)
-[![Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=Medium)](https://r3dhulk.medium.com/)
+<!-- [![Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=Medium)](https://r3dhulk.medium.com/) -->
 
 #
-
-<h3 align="left"><b><i> Show Support 👇👇👇 </b></i></h3>
-<p><a href="https://www.buymeacoffee.com/r3dhulk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/r3dhulk" /></a></p><br></br><br></br>
